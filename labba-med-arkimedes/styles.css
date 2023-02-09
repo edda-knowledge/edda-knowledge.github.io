@@ -11,10 +11,18 @@ h4  {
   float: left;
   font-weight: 600;
   font-size: 18px;
-  line-height: 45px;
+  line-height: 24px;
   color: #fff;
   margin: 0;
   margin-left: 10px;
+  margin-top: -3px;
+}
+
+h4 span {
+  line-height: 20px;
+  font-size: 14px;
+  color: rgba(189, 189, 189, 0.8);
+  font-weight: 500;
 }
 
 #topNavigationParent, #contentParent  {
@@ -52,9 +60,9 @@ h4  {
 #kontakt a  {
   float: left;
   font-weight: 500;
-  font-size: 18px;
+  font-size: 15px;
   line-height: 45px;
-  color: #bdbdbd;
+  color: rgba(189, 189, 189, 0.8);
   text-decoration: none;
   margin-left: 10px;
 }
@@ -69,7 +77,7 @@ h4  {
 }
 
 #arkimedesLogo  {
-  height: 133px;
+  height: 150px;
 }
 
 h1  {
